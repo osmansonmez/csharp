@@ -1,0 +1,5 @@
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

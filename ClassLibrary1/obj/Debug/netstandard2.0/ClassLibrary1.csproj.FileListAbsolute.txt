@@ -1,0 +1,12 @@
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CopyComplete
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\EOS\source\repos\ConsoleApp6\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
