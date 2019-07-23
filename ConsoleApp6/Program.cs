@@ -4,7 +4,7 @@ using System.Dynamic;
 
 namespace ConsoleApp6
 {
-    public  enum  CinsiyetEnum
+    public enum CinsiyetEnum
     {
         /// <summary>
         /// Kadın
@@ -22,7 +22,7 @@ namespace ConsoleApp6
     {
         Read = 1,
         Write = 2,
-        Modify =4,
+        Modify = 4,
         Remove = 8,
         Execute = 16,
         Copy = 32
@@ -40,11 +40,11 @@ namespace ConsoleApp6
     {
         public bool YetkiKontrol(YetkiseviyesiEnum yetkiSeviyesi, Person prs)
         {
-          bool yetkisivar =   prs.yetkiSeviyesi.HasFlag(yetkiSeviyesi);
+            bool yetkisivar = prs.yetkiSeviyesi.HasFlag(yetkiSeviyesi);
 
             if (yetkisivar)
             {
-                Console.WriteLine(prs.Name +" Yetkiniz var...");
+                Console.WriteLine(prs.Name + " Yetkiniz var...");
                 return true;
             }
             Console.WriteLine(prs.Name + " Yetkiniz yok!!!!!...");
@@ -54,9 +54,18 @@ namespace ConsoleApp6
 
     public class Model1
     {
-        public string param1;
+        public string param1
+        {
+            get
+            {
+                return param2 + param3;
+            }
+  
+        }
+
         public string param2;
         public string param3;
+
 
         public static explicit operator Model2(Model1 model)
         {
@@ -66,7 +75,6 @@ namespace ConsoleApp6
                 param2 = model.param2
             };
         }
-
     }
 
     public class Model2
@@ -164,18 +172,18 @@ namespace ConsoleApp6
 
             Person p1 = new Person()
             {
-                Name="Personel1",
+                Name = "Personel1",
                 yetkiSeviyesi = YetkiseviyesiEnum.Write | YetkiseviyesiEnum.Read
 
             };
 
             string s1 = "";
-            if(s1==Person.constDeger)
+            if (s1 == Person.constDeger)
             {
 
             }
 
-            if(s1== "sdfsdf")
+            if (s1 == "sdfsdf")
             {
 
             }
@@ -202,7 +210,6 @@ namespace ConsoleApp6
 
             Model1 m1 = new Model1()
             {
-                param1 = "sdfsdf",
                 param2 = "sdfsdfs",
                 param3 = "erfsdf"
             };

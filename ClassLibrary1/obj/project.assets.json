@@ -195,20 +195,20 @@
   },
   "packageFolders": {
     "C:\\Users\\EOS\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\EOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet",
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
@@ -226,8 +226,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary2\\ClassLibrary2.csproj": {
-              "projectPath": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary2\\ClassLibrary2.csproj"
+            "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary2\\ClassLibrary2.csproj"
             }
           }
         }

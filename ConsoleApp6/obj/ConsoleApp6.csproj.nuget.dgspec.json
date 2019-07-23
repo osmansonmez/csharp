@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {}
+    "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ConsoleApp6\\ConsoleApp6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary2\\ClassLibrary2.csproj": {
+    "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary2\\ClassLibrary2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectUniqueName": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary2\\ClassLibrary2.csproj",
         "projectName": "ClassLibrary2",
-        "projectPath": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary2\\ClassLibrary2.csproj"
+        "projectPath": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary2\\ClassLibrary2.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {
+    "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ConsoleApp6\\ConsoleApp6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+        "projectUniqueName": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ConsoleApp6\\ConsoleApp6.csproj",
         "projectName": "ConsoleApp6",
-        "projectPath": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+        "projectPath": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ConsoleApp6\\ConsoleApp6.csproj",
         "packagesPath": "C:\\Users\\EOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ConsoleApp6\\obj\\",
+        "outputPath": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ConsoleApp6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -43,8 +43,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary2\\ClassLibrary2.csproj": {
-                "projectPath": "C:\\Users\\EOS\\source\\repos\\ConsoleApp6\\ClassLibrary2\\ClassLibrary2.csproj"
+              "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary2\\ClassLibrary2.csproj": {
+                "projectPath": "C:\\Users\\EOS\\source\\repos\\csharpedu\\csharp\\ClassLibrary2\\ClassLibrary2.csproj"
               }
             }
           }
