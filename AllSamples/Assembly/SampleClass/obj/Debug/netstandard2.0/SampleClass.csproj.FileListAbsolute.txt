@@ -1,0 +1,9 @@
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\bin\Debug\netstandard2.0\SampleClass.deps.json
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\bin\Debug\netstandard2.0\SampleClass.dll
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\bin\Debug\netstandard2.0\SampleClass.pdb
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\obj\Debug\netstandard2.0\SampleClass.csprojAssemblyReference.cache
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\obj\Debug\netstandard2.0\SampleClass.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\obj\Debug\netstandard2.0\SampleClass.AssemblyInfoInputs.cache
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\obj\Debug\netstandard2.0\SampleClass.AssemblyInfo.cs
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\obj\Debug\netstandard2.0\SampleClass.dll
+D:\Eğitim\Net\AllSamples\Assembly\SampleClass\obj\Debug\netstandard2.0\SampleClass.pdb

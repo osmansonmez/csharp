@@ -1,0 +1,15 @@
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\bin\Debug\csharpbasicsstandart.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\bin\Debug\csharpbasicsstandart.pdb
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml

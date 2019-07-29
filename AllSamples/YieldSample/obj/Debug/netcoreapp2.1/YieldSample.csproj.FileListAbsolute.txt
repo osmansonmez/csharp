@@ -1,0 +1,10 @@
+D:\Eğitim\Net\AllSamples\YieldSample\bin\Debug\netcoreapp2.1\YieldSample.deps.json
+D:\Eğitim\Net\AllSamples\YieldSample\bin\Debug\netcoreapp2.1\YieldSample.runtimeconfig.json
+D:\Eğitim\Net\AllSamples\YieldSample\bin\Debug\netcoreapp2.1\YieldSample.runtimeconfig.dev.json
+D:\Eğitim\Net\AllSamples\YieldSample\bin\Debug\netcoreapp2.1\YieldSample.dll
+D:\Eğitim\Net\AllSamples\YieldSample\bin\Debug\netcoreapp2.1\YieldSample.pdb
+D:\Eğitim\Net\AllSamples\YieldSample\obj\Debug\netcoreapp2.1\YieldSample.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\YieldSample\obj\Debug\netcoreapp2.1\YieldSample.AssemblyInfoInputs.cache
+D:\Eğitim\Net\AllSamples\YieldSample\obj\Debug\netcoreapp2.1\YieldSample.AssemblyInfo.cs
+D:\Eğitim\Net\AllSamples\YieldSample\obj\Debug\netcoreapp2.1\YieldSample.dll
+D:\Eğitim\Net\AllSamples\YieldSample\obj\Debug\netcoreapp2.1\YieldSample.pdb

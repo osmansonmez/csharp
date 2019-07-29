@@ -1,0 +1,12 @@
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.deps.json
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.runtimeconfig.json
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.runtimeconfig.dev.json
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasics.pdb
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\bin\Debug\netcoreapp2.1\csharpbasicsstandart.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.AssemblyInfoInputs.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.AssemblyInfo.cs
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.csproj.CopyComplete
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasics\obj\Debug\netcoreapp2.1\csharpbasics.pdb

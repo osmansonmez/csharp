@@ -67,14 +67,24 @@ namespace WindowsFormsApp1
                 new Person() { Name = "sdfsdf" }
             };
 
-            Personeller prs = new Personeller(plist);
+        }
 
-            var liste = prs.GetListe();
-            Console.WriteLine("Datayı İşle");
-            foreach (var item in liste)
-            {
-                Console.WriteLine("Datayı Aldım");
-            }
+        private void Button3_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void Button3_Click_1(object sender, EventArgs e)
+        {
+            AppDomain.CurrentDomain.GetAssemblies();
+            MyClass mst = new MyClass();
+            mst.SetValue("deneme");
+            mst.SetValue(new Person() { Name = "sdfsdfsfd" });
+            mst.SetValue(25);
+
+            string deger = mst.GetValue<string>();
+            Person prs = mst.GetValue<Person>();
+            int intdeger = mst.GetValue<int>();
         }
     }
 
@@ -91,23 +101,33 @@ namespace WindowsFormsApp1
         }
     }
 
+    public class BusinessException : Exception
+    {
+        public BusinessException(string code,string message)
+        {
+
+        }
+
+    }
+
     public class Person
     {
         public string Name { get; set; }
         public string Surname { get; set; }
 
         public String PersonId { get; set; }
+
     }
 
-    public class Personeller : IEnumerable
+    public class Listemiz<T> : IEnumerable<T>
     {
-       Person[] liste;
-       public Personeller(Person[] liste)
+       T[] liste;
+       public Listemiz(T[] liste)
         {
             this.liste = liste;
         }
 
-        public Person this[int index]
+        public T this[int index]
         {
             get
             {
@@ -115,26 +135,21 @@ namespace WindowsFormsApp1
             }
         }
 
-      
-        public IEnumerator GetEnumerator()
+        public IEnumerator<T> GetEnumerator()
         {
-            return new PersonEnumerator(liste);
+            return new ListemizEnumerator<T>(liste);
         }
 
-        public IEnumerable<Person> GetListe()
+        IEnumerator IEnumerable.GetEnumerator()
         {
-            foreach (var item in liste)
-            {
-                Console.WriteLine("Datayı Verdim");
-                yield return  item;
-            }
+            throw new NotImplementedException();
         }
     }
 
-    public class PersonEnumerator : IEnumerator
+    public class ListemizEnumerator<T> : IEnumerator<T>
     {
-        Person[] liste;
-        public PersonEnumerator(Person[] liste)
+        T[] liste;
+        public ListemizEnumerator(T[] liste)
         {
             this.liste = liste;
         }
@@ -147,6 +162,8 @@ namespace WindowsFormsApp1
                 return liste[currIndex];
             }
         }
+
+        T IEnumerator<T>.Current => throw new NotImplementedException();
 
         public bool MoveNext()
         {
@@ -166,6 +183,26 @@ namespace WindowsFormsApp1
             currIndex = 0;
         }
 
+        public void Dispose()
+        {
+           
+        }
     }
 
+    public class MyClass
+    {
+        SortedList arlist = new SortedList();
+        public void SetValue<T>(T value)
+        {
+            if (!arlist.Contains(typeof(T).Name))
+            {
+                arlist.Add(typeof(T).Name, value);
+            }
+        }
+
+        public T GetValue<T>() 
+        {
+            return (T)arlist[typeof(T).Name];
+        }
+    }
 }

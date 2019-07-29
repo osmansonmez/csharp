@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "csharpbasics/1.0.0": {
+        "dependencies": {
+          "csharpbasicsstandart": "1.1.0.0"
+        },
+        "runtime": {
+          "csharpbasics.dll": {}
+        }
+      },
+      "csharpbasicsstandart/1.1.0.0": {
+        "runtime": {
+          "csharpbasicsstandart.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharpbasics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "csharpbasicsstandart/1.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

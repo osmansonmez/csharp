@@ -1,0 +1,9 @@
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\obj\Debug\netstandard2.0\csharpbasicsstandart.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\obj\Debug\netstandard2.0\csharpbasicsstandart.AssemblyInfoInputs.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\obj\Debug\netstandard2.0\csharpbasicsstandart.AssemblyInfo.cs
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\bin\Debug\netstandard2.0\csharpbasicsstandart.deps.json
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\bin\Debug\netstandard2.0\csharpbasicsstandart.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\bin\Debug\netstandard2.0\csharpbasicsstandart.pdb
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\obj\Debug\netstandard2.0\csharpbasicsstandart.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\obj\Debug\netstandard2.0\csharpbasicsstandart.pdb
+D:\Eğitim\Net\AllSamples\csharpbasics\csharpbasicsstandart\obj\Debug\netstandard2.0\csharpbasicsstandart.csprojAssemblyReference.cache

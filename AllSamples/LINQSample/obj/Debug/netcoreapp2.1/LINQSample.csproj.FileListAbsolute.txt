@@ -1,0 +1,11 @@
+D:\Eğitim\Net\AllSamples\LINQSample\bin\Debug\netcoreapp2.1\LINQSample.deps.json
+D:\Eğitim\Net\AllSamples\LINQSample\bin\Debug\netcoreapp2.1\LINQSample.runtimeconfig.json
+D:\Eğitim\Net\AllSamples\LINQSample\bin\Debug\netcoreapp2.1\LINQSample.runtimeconfig.dev.json
+D:\Eğitim\Net\AllSamples\LINQSample\bin\Debug\netcoreapp2.1\LINQSample.dll
+D:\Eğitim\Net\AllSamples\LINQSample\bin\Debug\netcoreapp2.1\LINQSample.pdb
+D:\Eğitim\Net\AllSamples\LINQSample\obj\Debug\netcoreapp2.1\LINQSample.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\LINQSample\obj\Debug\netcoreapp2.1\LINQSample.AssemblyInfoInputs.cache
+D:\Eğitim\Net\AllSamples\LINQSample\obj\Debug\netcoreapp2.1\LINQSample.AssemblyInfo.cs
+D:\Eğitim\Net\AllSamples\LINQSample\obj\Debug\netcoreapp2.1\LINQSample.dll
+D:\Eğitim\Net\AllSamples\LINQSample\obj\Debug\netcoreapp2.1\LINQSample.pdb
+D:\Eğitim\Net\AllSamples\LINQSample\obj\Debug\netcoreapp2.1\LINQSample.csprojAssemblyReference.cache

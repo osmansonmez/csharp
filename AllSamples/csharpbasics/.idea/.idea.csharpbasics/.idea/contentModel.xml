@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\EOS\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\EOS\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_csharpbasics.70914126.00" t="ExcludeRecursive" />
+    <e p="D:\Eğitim\Net\AllSamples\csharpbasics" t="IncludeFlat">
+      <e p="csharpbasics" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="csharpbasics.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="csharpbasics.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="csharpbasics.sln" t="IncludeFlat" />
+      <e p="csharpbasicsstandart" t="IncludeRecursive">
+        <e p="abstractsample.cs" t="Include" />
+        <e p="AnonymousType.cs" t="Include" />
+        <e p="AttributeSample.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BoxingUnboxing.cs" t="Include" />
+        <e p="csharpbasicsstandart.csproj" t="IncludeRecursive" />
+        <e p="DelegatesSample.cs" t="Include" />
+        <e p="DynamicSample.cs" t="Include" />
+        <e p="EnumSample.cs" t="Include" />
+        <e p="EventsSample.cs" t="Include" />
+        <e p="ExceptionSample.cs" t="Include" />
+        <e p="GenericsSample.cs" t="Include" />
+        <e p="InOutRef.cs" t="Include" />
+        <e p="IterationSample.cs" t="Include" />
+        <e p="mykey.snk" t="Include" />
+        <e p="NullableSample.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="csharpbasicsstandart.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OperatorOverloading.cs" t="Include" />
+        <e p="PartialSample1.cs" t="Include" />
+        <e p="PartialSample2.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ReflectionSample" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ReflectionSample.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ReflectionSample.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WindowsFormsApp1" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="WindowsFormsApp1.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

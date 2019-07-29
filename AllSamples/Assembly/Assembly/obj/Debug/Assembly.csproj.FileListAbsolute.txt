@@ -1,0 +1,7 @@
+D:\Eğitim\Net\AllSamples\Assembly\Assembly\bin\Debug\Assembly.exe.config
+D:\Eğitim\Net\AllSamples\Assembly\Assembly\bin\Debug\Assembly.exe
+D:\Eğitim\Net\AllSamples\Assembly\Assembly\bin\Debug\Assembly.pdb
+D:\Eğitim\Net\AllSamples\Assembly\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\Assembly\Assembly\obj\Debug\Assembly.exe
+D:\Eğitim\Net\AllSamples\Assembly\Assembly\obj\Debug\Assembly.pdb
+D:\Eğitim\Net\AllSamples\Assembly\Assembly\obj\Debug\Assembly.csprojAssemblyReference.cache

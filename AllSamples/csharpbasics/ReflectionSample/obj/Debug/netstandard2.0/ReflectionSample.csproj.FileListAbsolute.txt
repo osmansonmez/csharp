@@ -1,0 +1,8 @@
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\bin\Debug\netstandard2.0\ReflectionSample.deps.json
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\bin\Debug\netstandard2.0\ReflectionSample.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\bin\Debug\netstandard2.0\ReflectionSample.pdb
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\obj\Debug\netstandard2.0\ReflectionSample.csproj.CoreCompileInputs.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\obj\Debug\netstandard2.0\ReflectionSample.AssemblyInfoInputs.cache
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\obj\Debug\netstandard2.0\ReflectionSample.AssemblyInfo.cs
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\obj\Debug\netstandard2.0\ReflectionSample.dll
+D:\Eğitim\Net\AllSamples\csharpbasics\ReflectionSample\obj\Debug\netstandard2.0\ReflectionSample.pdb
